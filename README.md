@@ -37,3 +37,5 @@ exercise 4
 	* 6
 	* 9999
 	* output : 2
+
+Selesai
